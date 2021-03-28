@@ -1,4 +1,4 @@
 (fp_lib_table
   (lib (name PEC12R-4220F-S0024-pcb-part-libraries)(type KiCad)(uri /home/philipp/Downloads/PEC12R-4220F-S0024-pcb-part-libraries)(options "")(descr ""))
-  (lib (name Jack_3)(type KiCad)(uri "/home/philipp/Downloads/Telegram Desktop/Jack_3.5mm_VERTICAL")(options "")(descr ""))
+  (lib (name Jack_3)(type KiCad)(uri /home/philipp/Github/eurorack_step_sequencer/extra_footprints)(options "")(descr ""))
 )

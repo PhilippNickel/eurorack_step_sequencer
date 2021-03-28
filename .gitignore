@@ -13,3 +13,5 @@ fp-info-cache# Netlist files (exported from Eeschema)
 *.dsn
 *.ses
 *.zip
+extra_footprints/*
+extra_footprints

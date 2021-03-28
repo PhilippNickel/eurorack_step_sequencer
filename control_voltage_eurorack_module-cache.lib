@@ -105,6 +105,27 @@ X ~ T 200 0 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
+# Connector_Generic_Conn_01x03
+#
+DEF Connector_Generic_Conn_01x03 J 0 40 Y N 1 F N
+F0 "J" 0 200 50 H V C CNN
+F1 "Connector_Generic_Conn_01x03" 0 -200 50 H V C CNN
+F2 "" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+$FPLIST
+ Connector*:*_1x??_*
+$ENDFPLIST
+DRAW
+S -50 -95 0 -105 1 1 6 N
+S -50 5 0 -5 1 1 6 N
+S -50 105 0 95 1 1 6 N
+S -50 150 50 -150 1 1 10 f
+X Pin_1 1 -200 100 150 R 50 50 1 1 P
+X Pin_2 2 -200 0 150 R 50 50 1 1 P
+X Pin_3 3 -200 -100 150 R 50 50 1 1 P
+ENDDRAW
+ENDDEF
+#
 # Connector_Generic_Conn_01x04
 #
 DEF Connector_Generic_Conn_01x04 J 0 40 Y N 1 F N
@@ -355,11 +376,11 @@ X S2 S2 300 -100 100 L 50 50 1 1 P
 ENDDRAW
 ENDDEF
 #
-# MCU_Microchip_ATmega_ATmega16-16AU
+# MCU_Microchip_ATmega_ATmega16A-AU
 #
-DEF MCU_Microchip_ATmega_ATmega16-16AU U 0 20 Y Y 1 F N
+DEF MCU_Microchip_ATmega_ATmega16A-AU U 0 20 Y Y 1 F N
 F0 "U" -500 1950 50 H V L BNN
-F1 "MCU_Microchip_ATmega_ATmega16-16AU" 100 -1950 50 H V L TNN
+F1 "MCU_Microchip_ATmega_ATmega16A-AU" 100 -1950 50 H V L TNN
 F2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" 0 0 50 H I C CIN
 F3 "" 0 0 50 H I C CNN
 ALIAS ATmega16-16AU ATmega16A-AU ATmega32L-8AU ATmega32-16AU ATmega32A-AU

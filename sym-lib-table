@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "control_voltage_eurorack_module-rescue")(type "Legacy")(uri "${KIPRJMOD}/control_voltage_eurorack_module-rescue.lib")(options "")(descr ""))
+)

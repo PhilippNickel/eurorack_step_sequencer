@@ -1,0 +1,113 @@
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/pec12r-4x20f-sxxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/Lumberg KLB 4/Lumberg KLB 4 - Body.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMODEXTRA}/OLED_0.91_128x32.stp
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x03_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314J_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.step
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Inductor_SMD.3dshapes/L_1206_3216Metric.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl
+Can not find model defined with enviroment variable:
+${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl
+[('RV7', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV7', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('RV2', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV2', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('SW1', '${KISYS3DMODEXTRA}/pec12r-4x20f-sxxxx.stp'), ('RV4', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV4', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('RV6', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV6', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('RV5', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV5', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('RV3', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV3', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('J6', '${KISYS3DMODEXTRA}/Lumberg KLB 4/Lumberg KLB 4 - Body.step'), ('D4', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D7', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('RV8', '${KISYS3DMOD}/Potentiometer_THT.3dshapes/Potentiometer_Bourns_PTV09A-1_Single_Vertical.wrl'), ('RV8', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('RV1', '${KISYS3DMODEXTRA}/ptv09a-4x20f-xxxx.stp'), ('D1', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D5', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D6', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D8', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D2', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('D3', '${KISYS3DMOD}/LED_THT.3dshapes/LED_D3.0mm.wrl'), ('J3', '${KISYS3DMOD}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.wrl'), ('J3', '${KISYS3DMODEXTRA}/OLED_0.91_128x32.stp'), ('C3', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('C4', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('C1', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('C6', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('J2', '${KISYS3DMOD}/Connector_IDC.3dshapes/IDC-Header_2x03_P2.54mm_Vertical.wrl'), ('R1', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R3', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R4', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R5', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('RV9', '${KISYS3DMOD}/Potentiometer_SMD.3dshapes/Potentiometer_Bourns_3314J_Vertical.wrl'), ('U1', '${KISYS3DMOD}/Package_SO.3dshapes/SO-8_3.9x4.9mm_P1.27mm.wrl'), ('U1', '${KISYS3DMOD}/Package_SO.3dshapes/SO-8_5.3x6.2mm_P1.27mm.step'), ('U3', '${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-23-6.wrl'), ('Y1', '${KISYS3DMOD}/Crystal.3dshapes/Crystal_SMD_SeikoEpson_MA505-2Pin_12.7x5.1mm_HandSoldering.wrl'), ('R6', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R7', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R8', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R10', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R9', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('C7', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('C5', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('J1', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_2x08_P2.54mm_Vertical.wrl'), ('R12', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R11', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('R2', '${KISYS3DMOD}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl'), ('C2', '${KISYS3DMOD}/Capacitor_SMD.3dshapes/C_1206_3216Metric.wrl'), ('L1', '${KISYS3DMOD}/Inductor_SMD.3dshapes/L_1206_3216Metric.wrl'), ('J7', '${KISYS3DMOD}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x03_P2.54mm_Vertical.wrl'), ('U2', '${KISYS3DMOD}/Package_QFP.3dshapes/TQFP-44_10x10mm_P0.8mm.wrl')]
